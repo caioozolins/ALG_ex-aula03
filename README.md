@@ -1,2 +1,2 @@
-# ALG_at003
- Atividade Aula 03
+# ALG_ex-aula03
+ Exercícios Aula 03
